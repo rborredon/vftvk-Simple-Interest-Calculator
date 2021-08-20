@@ -15,7 +15,12 @@ h1{
     width:500px;
     padding:20px;
     border-radius:25px;
-    text-align:center;
+    
+}
+
+.inputtab {
+    width:300px;
+    margin-left:100px;
 }
 
 
